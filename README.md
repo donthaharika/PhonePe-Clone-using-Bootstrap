@@ -20,8 +20,10 @@ A **responsive digital payments platform** built using **Bootstrap**, mimicking 
 - **JavaScript**
 
 ## 📷 Screenshots
-
+ - **FOR COMPUTER/LAPTOP DEVICES**
 ![image](https://github.com/user-attachments/assets/83d1b535-f3fa-4b0b-9f4d-414f23820769)
+
+- **FOR SMARTPHONES/TABS**
 ![image](https://github.com/user-attachments/assets/314be729-7724-4a06-aec9-30085f8713e5)
 
 
